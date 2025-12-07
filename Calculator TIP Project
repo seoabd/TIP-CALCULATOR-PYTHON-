@@ -1,0 +1,13 @@
+🧮 Tip Calculator – Project Prompt
+1 Print a welcome message
+2 Ask the user for the total bill amount
+3 Ask the user what percentage tip they want to give
+Options should be 10, 12, or 15
+4 Ask how many people are splitting the bill
+5 Calculate the total bill including the tip
+6 Split the final bill evenly among all people
+7 Display the final amount each person should pay, rounded to 2 decimal places
+Example: "Each person should pay: $27.50"
+
+
+
